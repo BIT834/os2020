@@ -2,6 +2,15 @@
 layout: default
 ---
 
+
+## 操作系统课程设计
+
+**第一次作业：编译内核**
+
+提交网址：http://www.xxx.com
+
+截至时间：2020年12月10日
+
 ## Deprecated: Use my new theme "Duo" instead:
 
 [https://chibicode.github.io/duo/](https://chibicode.github.io/duo/)

@@ -17,26 +17,25 @@ layout: default
 
 ### 作业提交
 
+提交内容为一个压缩包，压缩包内包含两项内容，压缩包命名为：学号-姓名-实验编号.zip
+1. 实验报告（学号-姓名-实验编号.pdf，例如：3120180000-张三-实验1.pdf）
+2. 代码
 
 |:-:|:-:|:-:|:-:|
 |编号 |实验名 |提交网址|截止时间|
-|1|编译内核|[click](https://workspace.jianguoyun.com/inbox/collect/d9ccf2e6f92842a5b281c06dddacc325/submit)|2020-12-10|
-|2|进程控制||2020-12-1|
-|3|生产者和消费者||2020-12-2|
-|4|内存监视||2020-12-3|
-|5|复制目录||2020-12-4|
+|1|编译内核|[click](https://workspace.jianguoyun.com/inbox/collect/ce0cc61c32284cb59a7f96cfb9d3ce73/submit)|2020-12-18|
+|2|进程控制|[click](https://workspace.jianguoyun.com/inbox/collect/9064f199a4a247ae9b3a2cb6cce591bb/submit)|2020-12-25|
+|3|生产者和消费者|[click](https://workspace.jianguoyun.com/inbox/collect/1136915a60354945863bbaf618dfc9ab/submit)|2021-1-1|
+|4|内存监视|[click](https://workspace.jianguoyun.com/inbox/collect/893d75e6d1b843e9bd7aeb4c22c5e44b/submit)|2021-1-15|
+|5|复制目录|[click](https://workspace.jianguoyun.com/inbox/collect/0ab2a02c7e40469abac1a69500760785/submit)|2021-1-22|
 
 
 
 ### Q & A
 
-- Q: 提交作业用什么格式？
+- Q: 报告用什么格式？
 
   A: PDF（推荐） 或 DOCX
-
-- Q: 文件如何命名？
-
-  A: 姓名-学号-实验编号（例如：张三-3120180000-实验一.pdf）
 
 - Q: 其他问题？
 

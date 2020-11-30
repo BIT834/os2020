@@ -13,7 +13,7 @@ layout: default
 
 ### 课件
 
-(click)[./files/os.zip]
+(click)[https://github.com/AlainConnor/test/blob/gh-pages/files/os.zip]
 
 ### 作业提交
 

@@ -7,7 +7,7 @@ layout: default
 
 授课教师：马波（教授）
 
-助教：安磊、冯雨晴、朱元武
+助教：安磊、冯雨晴、朱远武
 
 邮箱：bit834@126.com
 
@@ -28,8 +28,7 @@ layout: default
 |3|生产者和消费者|[click](https://workspace.jianguoyun.com/inbox/collect/1136915a60354945863bbaf618dfc9ab/submit)|2021-1-1|
 |4|内存监视|[click](https://workspace.jianguoyun.com/inbox/collect/893d75e6d1b843e9bd7aeb4c22c5e44b/submit)|2021-1-15|
 |5|复制目录|[click](https://workspace.jianguoyun.com/inbox/collect/0ab2a02c7e40469abac1a69500760785/submit)|2021-1-22|
-
-
+|6|综合实验(组长提交)|[click](https://workspace.jianguoyun.com/inbox/collect/5197c04ab6cc4363b75002b71ccfec4e/submit)|2021-1-31|
 
 ### Q & A
 

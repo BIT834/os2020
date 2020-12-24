@@ -23,7 +23,7 @@ layout: default
 
 |:-:|:-:|:-:|:-:|:-:|
 |编号 |实验名 |提交网址|截止时间|已交名单|
-|1|编译内核|[click](https://workspace.jianguoyun.com/inbox/collect/ce0cc61c32284cb59a7f96cfb9d3ce73/submit)|2020-12-18|[12-14前](./files/sub1.pdf)|
+|1|编译内核|[click](https://workspace.jianguoyun.com/inbox/collect/ce0cc61c32284cb59a7f96cfb9d3ce73/submit)|2020-12-18|[已交名单](./files/sub1.pdf)|
 |2|进程控制|[click](https://workspace.jianguoyun.com/inbox/collect/9064f199a4a247ae9b3a2cb6cce591bb/submit)|2020-12-25||
 |3|生产者和消费者|[click](https://workspace.jianguoyun.com/inbox/collect/1136915a60354945863bbaf618dfc9ab/submit)|2021-1-1||
 |4|内存监视|[click](https://workspace.jianguoyun.com/inbox/collect/893d75e6d1b843e9bd7aeb4c22c5e44b/submit)|2021-1-8||

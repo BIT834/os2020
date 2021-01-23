@@ -21,7 +21,7 @@ layout: default
 1. 实验报告（学号-姓名-实验编号.pdf，例如：3120180000-张三-实验1.pdf）
 2. 代码
 
-<font color='red'> 第六次实验务必准时提交 </font>
+<font color='red'> 陶天、徐灵龙、马腾龙、黄泰盛、栗萌萌、唐家齐、陈嘉隆、李昱瑶。请马上联系:17694836697（电话、微信） </font>
 
 |:-:|:-:|:-:|:-:|:-:|
 |编号 |实验名 |提交网址|截止时间|已交名单|
@@ -30,7 +30,7 @@ layout: default
 |3|生产者和消费者|[click](https://workspace.jianguoyun.com/inbox/collect/1136915a60354945863bbaf618dfc9ab/submit)|2021-1-1|[1-2前](./files/sub3.pdf)|
 |4|内存监视|[click](https://workspace.jianguoyun.com/inbox/collect/893d75e6d1b843e9bd7aeb4c22c5e44b/submit)|2021-1-8|[1-9前](./files/sub4.pdf)|
 |5|复制目录|[click](https://workspace.jianguoyun.com/inbox/collect/0ab2a02c7e40469abac1a69500760785/submit)|2021-1-15|[1-16前](./files/sub5.pdf)|
-|6|综合实验(组长提交,课堂不验收,提交内容详见提交链接)|[click](https://workspace.jianguoyun.com/inbox/collect/5197c04ab6cc4363b75002b71ccfec4e/submit)|2021-1-22||
+|6|综合实验(组长提交,课堂不验收,提交内容详见提交链接)|[click](https://workspace.jianguoyun.com/inbox/collect/5197c04ab6cc4363b75002b71ccfec4e/submit)|2021-1-22|[1-23前](./files/sub6.pdf)|
 
 ### Q & A
 
